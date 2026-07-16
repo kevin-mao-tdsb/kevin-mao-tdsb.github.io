@@ -1,11 +1,7 @@
 # TDSB ITS Lunch Spots
 Thanks for checking this page out! This is managed by Kevin Mao. I just wanted an easy way to choose lunch at the office, because it can get difficult when there are many people who are potentially interested in coming!
 
-<br>
-
-The site is hosted at <b>https://kevin-mao-tdsb.github.io/<b>.
-
-<br>
+The site is hosted at <b>https://kevin-mao-tdsb.github.io/</b>.
 
 The site is fairly simple, but I split the three regions into three areas:
 - Spots within a 10-15 minute drive of either 1 Civic or BCI are included in the <b>Etobicoke</b> region.
@@ -13,6 +9,5 @@ The site is fairly simple, but I split the three regions into three areas:
 - Spots within a 10-15 minute drive of 140 Borough are included in the <b>Scarborough</b> region.
 
 Otherwise, you can search for places via their name or the description I've written for the places, and I've also included tags on some spots that are my personal favourites.
-<br>
-<br>
+
 Please let me know if anything is broken or if you have suggestions for additional features to add, thanks!
